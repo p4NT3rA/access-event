@@ -1,0 +1,8 @@
+mkdir accessevent
+cd accessevent
+python -m venv venv
+
+# Активация на Windows:
+venv\Scripts\activate
+# Активация на Linux/Mac:
+source venv/bin/activate
